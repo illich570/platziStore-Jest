@@ -6,7 +6,7 @@ import '../styles/components/Header.styl';
 const Header = props => (
   <div className="Header">
     <h1 className="Header-title">
-      <Link to="/">
+      <Link to="/platziStore-Jest">
         Platzi Store
       </Link>
     </h1>
